@@ -1,0 +1,37 @@
+PODS:
+  - Alamofire (5.4.1)
+  - Flutter (1.0.0)
+  - "permission_handler (5.0.1+1)":
+    - Flutter
+  - QiscusMeet (2.3.2):
+    - SwiftyJSON
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Flutter (from `Flutter`)
+  - permission_handler (from `.symlinks/plugins/permission_handler/ios`)
+  - QiscusMeet
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - QiscusMeet
+    - SwiftyJSON
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  permission_handler:
+    :path: ".symlinks/plugins/permission_handler/ios"
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  permission_handler: eac8e15b4a1a3fba55b761d19f3f4e6b005d15b6
+  QiscusMeet: 5a6c57ff2ba4d3283c66856866c48e15858919c3
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: 82d6b80d50fc45e8e03cb221d823d296d73eef2f
+
+COCOAPODS: 1.9.3
